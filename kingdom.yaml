@@ -1,0 +1,8 @@
+name: liturgiame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The worship-event in which many media coordinate into one synthetic act, received from a tradition and from the Ground as the highest projection-form.
+dependsOn: [youspeak, me, morphame, sigame]
